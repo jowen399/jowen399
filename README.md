@@ -18,4 +18,3 @@ Repositories containing portfolio of data science projects completed by me for a
     * Using machine learning models to predict outcomes (supervized and unsupervized) 
 
 
-[ **An investigation into a predictive data model to forecast football match outcomes.**](https://github.com/jowen399/Forcasting-Football-Matches "Predicting Football Matches")
