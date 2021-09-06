@@ -1,10 +1,10 @@
 # Data Analysis Portfolio
 
-Repository containing portfolio of data science projects completed by me for academic and self learning purposes. Presented in the form of iPython Notebooks, with written reports added where appropriate.
+Repositories containing portfolio of data science projects completed by me for academic and self learning purposes. Presented in the form of iPython Notebooks, with written reports added where appropriate.
 
 # Contents
 
- **An investigation into a predictive data model to forecast football match outcomes.** : This project combines data from different sources to assess whether it is possible to predict the outcome of a football match using 'Expected Goal' data.
+[**An investigation into a predictive data model to forecast football match outcomes.**](https://github.com/jowen399/Forcasting-Football-Matches "Predicting Football Matches"): This project combines data from different sources to assess whether it is possible to predict the outcome of a football match using 'Expected Goal' data.
  * Skills used:
     * Combining and cleaning datasets from different sources using the Pandas Library
     * Visualising data using MatPlotLib and Seaborn
@@ -16,3 +16,6 @@ Repository containing portfolio of data science projects completed by me for aca
     * Data cleaning using the pandas library
     * Visualising data using MatPlotLib and Seaborn
     * Using machine learning models to predict outcomes (supervized and unsupervized) 
+
+
+[ **An investigation into a predictive data model to forecast football match outcomes.**](https://github.com/jowen399/Forcasting-Football-Matches "Predicting Football Matches")
