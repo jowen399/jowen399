@@ -4,7 +4,7 @@ Repositories containing portfolio of data science projects completed by me for a
 
 # Contents
 
-[**An investigation into a predictive data model to forecast football match outcomes.**](https://github.com/jowen399/Forcasting-Football-Matches "Predicting Football Matches"): This project combines data from different sources to assess whether it is possible to predict the outcome of a football match using 'Expected Goal' data.
+[**An investigation into a predictive data model to forecast football match outcomes**](https://github.com/jowen399/Forcasting-Football-Matches "Predicting Football Matches") This project combines data from different sources to assess whether it is possible to predict the outcome of a football match using 'Expected Goal' data.
  * Skills used:
     * Combining and cleaning datasets from different sources using the Pandas Library
     * Visualising data using MatPlotLib and Seaborn
