@@ -13,6 +13,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
  **Insert Project Title here** : This project applies machine learning algorithms to a dataset containing player attributes from the popular video game 'Fifa 19'.
  * Skills used:
-    * Data cleanin gusing the pandas library
+    * Data cleaning using the pandas library
     * Visualising data using MatPlotLib and Seaborn
     * Using machine learning models to predict outcomes (supervized and unsupervized) 
